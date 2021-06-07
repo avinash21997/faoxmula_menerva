@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/faoxmula_menerva/static/css/main.801cf490.chunk.css",
+    "main.js": "/faoxmula_menerva/static/js/main.cd75eb95.chunk.js",
+    "main.js.map": "/faoxmula_menerva/static/js/main.cd75eb95.chunk.js.map",
+    "runtime-main.js": "/faoxmula_menerva/static/js/runtime-main.a9261337.js",
+    "runtime-main.js.map": "/faoxmula_menerva/static/js/runtime-main.a9261337.js.map",
+    "static/css/2.8c5372c1.chunk.css": "/faoxmula_menerva/static/css/2.8c5372c1.chunk.css",
+    "static/js/2.515c9a50.chunk.js": "/faoxmula_menerva/static/js/2.515c9a50.chunk.js",
+    "static/js/2.515c9a50.chunk.js.map": "/faoxmula_menerva/static/js/2.515c9a50.chunk.js.map",
+    "static/js/3.995f0f4c.chunk.js": "/faoxmula_menerva/static/js/3.995f0f4c.chunk.js",
+    "static/js/3.995f0f4c.chunk.js.map": "/faoxmula_menerva/static/js/3.995f0f4c.chunk.js.map",
+    "index.html": "/faoxmula_menerva/index.html",
+    "static/css/2.8c5372c1.chunk.css.map": "/faoxmula_menerva/static/css/2.8c5372c1.chunk.css.map",
+    "static/css/main.801cf490.chunk.css.map": "/faoxmula_menerva/static/css/main.801cf490.chunk.css.map",
+    "static/js/2.515c9a50.chunk.js.LICENSE.txt": "/faoxmula_menerva/static/js/2.515c9a50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9261337.js",
+    "static/css/2.8c5372c1.chunk.css",
+    "static/js/2.515c9a50.chunk.js",
+    "static/css/main.801cf490.chunk.css",
+    "static/js/main.cd75eb95.chunk.js"
+  ]
+}
